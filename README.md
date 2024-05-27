@@ -1,4 +1,5 @@
 # Book Recommendation System 
+6th semester B.Tech Minor Project
 - A book recommendation system is a type of recommender system that suggests books to users based on their reading history, preferences, and behavior. The system uses various algorithms and data analysis techniques to predict which books a user is likely to enjoy and recommends them to the user.
 
 - This repository contains the group minor project done in 6th Semester of Btech. (Computer Science and Engineering).
