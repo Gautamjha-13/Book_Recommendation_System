@@ -1,5 +1,4 @@
-# Book-Guide 
-- Book-Guide is a app based on book recommendation system.
+# Book Recommendation System 
 - A book recommendation system is a type of recommender system that suggests books to users based on their reading history, preferences, and behavior. The system uses various algorithms and data analysis techniques to predict which books a user is likely to enjoy and recommends them to the user.
 
 - This repository contains the group minor project done in 6th Semester of Btech. (Computer Science and Engineering).
@@ -13,7 +12,7 @@
 #### Clone a repository
 
 ```python
-git clone https://github.com/theabinashpanda/MinorProject_Btech
+git clone https://github.com/Gautamjha-13/Book_Recommendation_System
 ```
 #### Setting up the environment and run the web application.
 ```python
